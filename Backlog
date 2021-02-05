@@ -1,1 +1,3 @@
-US001 Task001 - 
+US001 Task001 - Determine which include paths are needed for a project build: Defintion of done is a list of include directories. Points 1
+US001 Task002 - Create a skeleton makefile that has varaiable to store include paths: Defintion of done A syntactically correct makefile. Points 1
+US001 Task003 - Demonstrate build of source code into testable executable using makefile. Point 5
